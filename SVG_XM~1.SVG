@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="promotion__video-button_svg" viewBox="0 0 200 200" alt="Play video" width=:44px height="44px">
+<circle cx="100" cy="100" r="90" fill="none" stroke-width="10" stroke="#fff"/>
+<polygon points="70, 55 70, 145 145, 100" fill="#fff"/>
+</svg>

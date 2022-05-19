@@ -1,0 +1,324 @@
+*{
+    margin: 0;
+}
+.top{
+    background: #0065c3;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    position: fixed;
+}
+.logo{
+  padding-left: 40px;
+  padding-top: 10px;
+  display: flex;
+}
+.logo i{
+    padding-top: 35px;
+    color: aliceblue;
+    padding-left: 5px;
+}
+.logo li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    padding-top: 35px;
+    text-align: center;
+    padding-left:50px;
+    list-style-type: none;
+}
+.logo li:hover{
+    color:cornflowerblue ;
+}
+.logo i:hover{
+    color: cornflowerblue;
+}
+.buy{
+   padding-left:560px;
+   padding-top: 40px;
+    color: aliceblue;
+   font-size: 16px;
+    border-radius: 2em;
+    list-style-type: none;
+}
+.buy a{
+    border: 2px solid aliceblue;
+    padding: 5px;
+    border-radius: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.buy a:hover{
+    color: #0065c3;
+    background-color: aliceblue;
+}
+.body{
+    height: auto;
+    background-position: 50%center;
+    background-size: cover;
+    background-image:url(bg1.png) ;
+    justify-content:space-between;
+    padding-top: 10%;
+    display: flex;
+}
+.bg{
+    padding-left: 15%;
+}
+.nitro-logo h1{
+    font-family:"Cervo Neue Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 38px;
+    line-height: 46px;
+    text-align: center;
+    letter-spacing: normal;
+    padding: 50px;
+    color: #fff;
+}
+.nitro-logo a{
+    margin: 180px;
+    font-family:"Cervo Neue Black", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    text-align: center;
+    letter-spacing: normal;
+    color: #fff;
+    padding: 15px;
+    font-weight: 600;
+    border-radius: 3em;
+    border: 2px solid #fff;
+}
+.nitro-logo a:hover{
+    background-color: #fff;
+    color: #0065c3;
+}
+.nitro-logo{
+    padding:150px;
+    padding-left:200px;
+}
+.sec2{
+    background-position: 50%center;
+    background-size: cover;
+    background-image:url(bg2.png) ;
+}
+.body2{
+    height: auto;
+    width: 1240px;
+    margin: 0 auto; 
+   
+    justify-content:space-between;
+    display: flex;
+    padding-top: 10%;
+}
+.vid1{
+    padding-top: 10%;
+   display: flex;
+   justify-content: center; 
+}
+.pzs{
+    padding-left: 15%;
+}
+.bg2{
+    padding-right: 15%;
+}
+.body3{
+    width: 100%;
+    height: auto;
+    background-position: 50%center;
+    background-size: cover;
+    background-image:url(bg1.png) ;
+    justify-content:space-between;
+    
+    display: flex;
+}
+.fod1, .fod2{
+    padding:50px;
+    text-align: center;
+}
+.fod1 h4, .fod2 h4{
+    color: aliceblue;
+    padding: 10px;
+    border: 1px solid blue ;
+    background-color:blue;
+}
+.fod{
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    background-image: url(PEP_BWP_D@2x.jpg);
+    
+}
+.fod img{
+    padding-top: 50%;
+    height: 200px;
+}
+.body4{
+    width: 100%;
+    height:auto;
+    background-position: center;
+    background-size: cover;
+   background-color: #2c629d;
+    display: flex;
+    justify-content:space-between;
+    background-image: url(bg-2-desktop@3x.png);
+}
+.mng{
+    padding: 50px;  
+}
+.mng3{
+  padding: 50px;
+}
+.mng4{
+    padding: 35px;
+}
+.body5 video{
+    width: 100%;
+    display: flex;
+    background-color: black;
+}
+.body6{ 
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    background-image: url(twil-bg.jpg);
+    display: flex;
+}
+.body6 img{
+    padding-top: 50px;
+   
+}
+.body7{
+    background-color: #0065c3;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-top: 100px;
+   
+}
+.body7 img{
+    align-items: flex-end;
+    padding-bottom: 50px;
+    padding-right: 100px;
+
+}
+.body7 h1{
+    text-align: left;
+    padding-left:150px;
+    color: #fff;
+    font-family:"Cervo Neue Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: normal;
+
+}
+.body7 p{
+    color: #fff;
+    padding: 0 300px 30px 152px;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: left;
+    letter-spacing: normal;
+}
+.body7 a{
+    font-family: "Sofia Pro Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 16.1px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #fff;
+    padding: 15px;
+    border-radius: 3em;
+    margin: 150px;
+    font-weight: 600;
+    border: 3px solid #fff;
+}
+.body7 a:hover{
+    background-color: #fff;
+    color: #0065c3;
+}
+.soical-media{
+    font-family: "Cervo Neue Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: normal;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #0065c3;
+}
+.body8{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    background-color: #0065c3;
+    list-style-type: none;
+    display: flex;
+}
+.logo1{
+   margin: 50px;
+}
+.fst{
+    font-size: 16px;
+    line-height: 18.4px;
+    text-align: start;
+    font-family: "Sofia Pro Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    letter-spacing: normal;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.fst li{
+    padding: 2px;
+}
+.sec{
+
+    font-size: 16px;
+    line-height: 18.4px;
+    text-align: start;
+    font-family:"Sofia Pro Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    letter-spacing: normal;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.sec li{
+    padding: 2px;
+}
+.thr{
+    font-size: 16px;
+    line-height: 18.4px;
+    text-align: start;
+    font-family:"Sofia Pro Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    letter-spacing: normal;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.thr li{
+    padding: 2px;
+}
+.footer{
+    height: 50vh;
+}
+.social-logo{
+    padding-top: 5px;
+}
+.sub{
+    margin-left: 100px;
+    padding-left: 100px;
+    margin-top: 80px;
+    font-family: "Sofia Pro Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8px;
+    line-height: 16px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: normal;
+}
+.sub h1{
+    border: 3px solid #fff;
+    padding: 10px;
+    border-radius: 3em;
+}
+.sub h1:hover{
+    background-color: #fff;
+    color: #0065c3;
+}
+.social-logo img{
+    padding: 3px;
+}
